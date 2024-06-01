@@ -1,0 +1,30 @@
+.pixelart-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35vh;
+}
+.ghost-pixelart {
+    width: 1rem;
+    height: 1rem;
+}
+.casset-pixelart {
+    height: 5px;
+    width: 5px;
+    margin-top: -13rem;
+    margin-left: -17.5rem;
+}
+
+.casset-pixelart-animation {
+    margin-top: -13rem;
+    margin-left: -17.5rem;
+    position: absolute;
+    animation: x 0.7s infinite;
+    -webkit-animation: x 0.7s infinite;
+    -moz-animation: x 0.7s infinite;
+    -o-animation: x 0.7s infinite;
+  }
+  
+@keyframes x {
+    /* Get From: Pixel Art to CSS Website */
+}
