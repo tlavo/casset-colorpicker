@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/casset-colorpicker/static/css/main.8319f115.css",
-    "main.js": "/casset-colorpicker/static/js/main.3d27191e.js",
+    "main.js": "/casset-colorpicker/static/js/main.046dc4a7.js",
     "static/js/453.996ed346.chunk.js": "/casset-colorpicker/static/js/453.996ed346.chunk.js",
     "index.html": "/casset-colorpicker/index.html",
     "main.8319f115.css.map": "/casset-colorpicker/static/css/main.8319f115.css.map",
-    "main.3d27191e.js.map": "/casset-colorpicker/static/js/main.3d27191e.js.map",
+    "main.046dc4a7.js.map": "/casset-colorpicker/static/js/main.046dc4a7.js.map",
     "453.996ed346.chunk.js.map": "/casset-colorpicker/static/js/453.996ed346.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8319f115.css",
-    "static/js/main.3d27191e.js"
+    "static/js/main.046dc4a7.js"
   ]
 }
